@@ -1,0 +1,55 @@
+    body {
+        background-color: #6a3993
+    }
+    
+    .signup {
+        margin-left: 550px;
+        margin-top: 110px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        width: 400px;
+        height: 300px;
+        background-color: white;
+        border-radius: 10px;
+        position: relative;
+    }
+    
+    h1 {
+        color: #6a3993;
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    
+    .input {
+        width: 90%;
+        padding: 8px;
+    }
+    
+    .input:focus {
+        border: 2px solid rgb(16, 16, 16);
+    }
+    
+    .icon {
+        position: relative;
+        right: 25px;
+        bottom: -2px;
+        color: rgb(0, 0, 0);
+        min-width: 1px;
+    }
+    
+    button {
+        display: absolute;
+        border: none;
+        background-color: #6a3993;
+        width: 380px;
+        color: white;
+        font-weight: bold;
+        padding: 9px;
+        border-radius: 7px;
+    }
+    
+    button:hover {
+        background-color: grey;
+    }
